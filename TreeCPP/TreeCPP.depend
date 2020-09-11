@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1589980142 source:c:\users\hp\code blocks\treecpp\main.cpp
+	<iostream>
+	<stdio.h>
+	"QueueCPP.h"
+
+1589979800 c:\users\hp\code blocks\treecpp\queuecpp.h
+	<stdio.h>
+	<iostream>
+

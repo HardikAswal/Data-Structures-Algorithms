@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1595441494 source:c:\users\hp\code blocks\graphtraversal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1595441519 c:\users\hp\code blocks\graphtraversal\queue.h
+	<stdio.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1589976321 source:c:\users\hp\code blocks\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1589976090 c:\users\hp\code blocks\tree\queue.h
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589372243 source:c:\users\hp\code blocks\stackarray\main.c
+	<stdio.h>
+	<stdlib.h>
+
